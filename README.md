@@ -39,23 +39,32 @@ Exploratory Data Analysis
 ● Multicolliearnity check
 
 #### Data Transformation and Feature engineering
-● Imputation of missing values / null values
+● Imputation of missing values / null values 
+
 ● Encoding of Categorical values
+
 ● Standardization of Numeric values
+
 ● Up sampling of Data
 
 #### Data Split
 
 Splitting of training
 ● train set
+
 ● validation set
+
 Model Training
 
 #### Models
 ● Logistic Regression
+
 ● XGB Classifier
+
 ● KNN Classifier
+
 ● Artificial Neural Network
+
 ● AutoML - Pycaret
 
 
