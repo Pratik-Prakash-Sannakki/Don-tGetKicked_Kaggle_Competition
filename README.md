@@ -34,7 +34,8 @@ More context on data is in Carvana_Data_Dictionary.txt
 #### Data Ingestion
 
 Basics imports of module and Data from train and test CSV files. Understanding and Descriptive statics of Train and Test Data.
-Exploratory Data Analysis
+
+#### Exploratory Data Analysis
 
 ● Feature selection
 
