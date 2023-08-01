@@ -35,7 +35,9 @@ More context on data is in Carvana_Data_Dictionary.txt
 
 Basics imports of module and Data from train and test CSV files. Understanding and Descriptive statics of Train and Test Data.
 Exploratory Data Analysis
+
 ● Feature selection
+
 ● Multicolliearnity check
 
 #### Data Transformation and Feature engineering
@@ -75,7 +77,9 @@ Splitting of training
 #### Train & Test
 
 ● Model trained on train set
+
 ● Tested on validation set
+
 ● Predictions made on Test set
 
 #### Model Evaluation
