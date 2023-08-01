@@ -50,13 +50,17 @@ Exploratory Data Analysis
 #### Data Split
 
 Splitting of training
+
 ● train set
+
+● test set
+
 
 ● validation set
 
-Model Training
 
 #### Models
+
 ● Logistic Regression
 
 ● XGB Classifier
@@ -69,6 +73,7 @@ Model Training
 
 
 #### Train & Test
+
 ● Model trained on train set
 ● Tested on validation set
 ● Predictions made on Test set
@@ -76,10 +81,15 @@ Model Training
 #### Model Evaluation
 
 Matrices used
+
 ● Confusion matrix
+
 ● Precision
+
 ● Recall
+
 ● F1 Score
+
 ● Model Accuracy
 
 **Note** - detailed cell wise explanation given in the notebook - Don't_Get_Kicked!_AllerganLab_Assessment_Pratik_Prakash Sannakki.ipynb
