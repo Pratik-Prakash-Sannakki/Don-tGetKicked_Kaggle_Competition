@@ -37,13 +37,13 @@ Basics imports of module and Data from train and test CSV files. Understanding a
 
 
 
-#### Exploratory Data Analysis
+#### 1) Exploratory Data Analysis
 
 ● Feature selection
 
 ● Multicolliearnity check
 
-#### Data Transformation and Feature engineering
+#### 2) Data Transformation and Feature engineering
 ● Imputation of missing values / null values 
 
 ● Encoding of Categorical values
@@ -52,7 +52,7 @@ Basics imports of module and Data from train and test CSV files. Understanding a
 
 ● Up sampling of Data
 
-#### Data Split
+#### 3) Data Split
 
 Splitting of training
 
@@ -64,7 +64,7 @@ Splitting of training
 ● validation set
 
 
-#### Models
+#### 4) Models
 
 ● Logistic Regression
 
@@ -77,7 +77,7 @@ Splitting of training
 ● AutoML - Pycaret
 
 
-#### Train & Test
+#### 5) Train & Test
 
 ● Model trained on train set
 
@@ -85,7 +85,7 @@ Splitting of training
 
 ● Predictions made on Test set
 
-#### Model Evaluation
+#### 6) Model Evaluation
 
 Matrices used
 
