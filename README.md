@@ -19,3 +19,59 @@ There are 34 Feature
 The data conatins missing values
 The target feature has 2 catagories hence its a binary classification problem
 More context on data is in Carvana_Data_Dictionary.txt
+
+## Approach
+ **On understanding it is a binary classification problem the below tasks were performed.**
+### Task Performed
+1. Data Ingestion
+2. Exploratory Data Analysis
+3. Data Transformation and Feature engineering
+ 4. Data Split
+5. Model Training
+6. Model Testing
+7. Model Evaluation
+
+#### Data Ingestion
+
+Basics imports of module and Data from train and test CSV files. Understanding and Descriptive statics of Train and Test Data.
+Exploratory Data Analysis
+● Feature selection
+● Multicolliearnity check
+
+#### Data Transformation and Feature engineering
+● Imputation of missing values / null values
+● Encoding of Categorical values
+● Standardization of Numeric values
+● Up sampling of Data
+
+#### Data Split
+
+Splitting of training
+● train set
+● validation set
+Model Training
+
+#### Models
+● Logistic Regression
+● XGB Classifier
+● KNN Classifier
+● Artificial Neural Network
+● AutoML - Pycaret
+
+
+#### Train & Test
+● Model trained on train set
+● Tested on validation set
+● Predictions made on Test set
+
+#### Model Evaluation
+
+Matrices used
+● Confusion matrix
+● Precision
+● Recall
+● F1 Score
+● Model Accuracy
+
+**Note** - detailed cell wise explanation given in the notebook - Don't_Get_Kicked!_AllerganLab_Assessment_Pratik_Prakash Sannakki.ipynb
+
