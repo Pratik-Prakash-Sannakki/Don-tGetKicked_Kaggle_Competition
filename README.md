@@ -13,12 +13,16 @@ An auto dealership faces a significant challenge when purchasing used cars at au
 
 Kicked cars often arise from various factors such as tampered odometers, unresolved mechanical problems, difficulties in obtaining the vehicle title from the seller, or other unexpected issues. Dealing with kick cars can be financially burdensome for dealerships, involving expenses for transportation, extensive repairs, and losses when trying to resell the vehicle.
 
+
 ## Data Overview
 
 There are 34 Feature
 The data conatins missing values
 The target feature has 2 catagories hence its a binary classification problem
 More context on data is in Carvana_Data_Dictionary.txt
+
+## Competition
+https://www.kaggle.com/c/DontGetKicked
 
 ## Approach
  **On understanding it is a binary classification problem the below tasks were performed.**
@@ -100,4 +104,6 @@ Matrices used
 ● Model Accuracy
 
 **Note** - detailed cell wise explanation given in the notebook - Don't_Get_Kicked!_AllerganLab_Assessment_Pratik_Prakash Sannakki.ipynb
+
+
 
