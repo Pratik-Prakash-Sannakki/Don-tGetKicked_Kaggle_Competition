@@ -1,1 +1,1 @@
-# Don-tGetKicked_Kaggle_Competition
+# DontGetKicked_Kaggle_Competition
